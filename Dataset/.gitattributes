@@ -1,0 +1,10 @@
+eigenDataValid25percent.npy filter=lfs diff=lfs merge=lfs -text
+eigenDataValid50percent.npy filter=lfs diff=lfs merge=lfs -text
+eigenDataValid75percent.npy filter=lfs diff=lfs merge=lfs -text
+LABELTRAIN.npy filter=lfs diff=lfs merge=lfs -text
+eigenDataTrain100percent.npy filter=lfs diff=lfs merge=lfs -text
+eigenDataTrain25percent.npy filter=lfs diff=lfs merge=lfs -text
+eigenDataTrain50percent.npy filter=lfs diff=lfs merge=lfs -text
+eigenDataTrain75percent.npy filter=lfs diff=lfs merge=lfs -text
+LABELVAL.npy filter=lfs diff=lfs merge=lfs -text
+eigenDataValid100percent.npy filter=lfs diff=lfs merge=lfs -text
